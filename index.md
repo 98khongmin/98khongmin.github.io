@@ -1,4 +1,8 @@
 ## Welcome to 98khongmin's Github page!
+# Chapters
+### [Header 1](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-1)
+### [Header 2](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-2)
+### [Header 3](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-3)
 
 
 # Header 1
@@ -6,7 +10,7 @@
 
 This is one of my favorite profile Images.
 
-## Header 2
+# Header 2
 
 Instruments | Languages
 ------------ | -------------
@@ -19,17 +23,17 @@ Otamatone | French
 This is Header 2. 
 I know how to play these insruments and studying these Languages.
 
-### Header 3
+# Header 3
 This is Header 3.
 
 1. If you're ever interested in learning Korean, here's my number:
   _**(208)-XXX-XXXX**_
 2. Also, everyone is welcome to **challenge** me in *Smash Bros*.
 
-### Support or Contact
+## Support or Contact
 
 stevenkim@u.boisestate.edu
 
-### Image Source
+## Image Source
 
 https://imgur.com/gallery/kb64e
