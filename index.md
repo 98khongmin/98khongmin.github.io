@@ -12,8 +12,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+-This is Header 1
+![Image of Mercy-Corgi]
+(https://i.pinimg.com/originals/78/30/fa/7830fa8780f57c0b83e8b7d00f78284e.jpg)
 ## Header 2
+-This is Header 2
+First | Second
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 ### Header 3
+-This is Header 3
 
 - Bulleted
 - List
