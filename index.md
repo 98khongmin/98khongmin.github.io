@@ -1,20 +1,15 @@
 ## Welcome to 98khongmin's Github page!
 # Chapters
 
-[Header 1](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-1
--1)
+[Header 1](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-1-1)
 
-[Header 2](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-2
--1)
+[Header 2](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-2-1)
 
-[Header 3](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-3
--1)
+[Header 3](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#header-3-1)
 
-[Support or Contact](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#support-
-or-contact)
+[Support or Contact](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#support-or-contact)
 
-[Image Source](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#image-
-source)
+[Image Source](https://github.com/98khongmin/98khongmin.github.io/blob/master/index.md#image-source)
 
 
 
