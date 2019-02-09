@@ -6,8 +6,6 @@
 
 
 ## Header 2
-This is Header 2. 
-I know how to play these insruments and studying these Languages.
 Instruments | Languages
 ------------ | -------------
 Guitar | Java
@@ -15,6 +13,10 @@ Piano | HTML
 Drum Set | CSS
 Bass Guitar | MySQL
 Otamatone | French
+
+This is Header 2. 
+I know how to play these insruments and studying these Languages.
+
 ### Header 3
  -This is Header 3
 
