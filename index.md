@@ -1,11 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my Github page!
 
-You can use the [editor on GitHub](https://github.com/98khongmin/98khongmin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+![Image of Mercy-Corgi]
+(https://i.pinimg.com/originals/78/30/fa/7830fa8780f57c0b83e8b7d00f78284e.jpg)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -13,8 +11,7 @@ Syntax highlighted code block
 
 # Header 1
 -This is Header 1
-![Image of Mercy-Corgi]
-(https://i.pinimg.com/originals/78/30/fa/7830fa8780f57c0b83e8b7d00f78284e.jpg)
+
 ## Header 2
 -This is Header 2
 First | Second
