@@ -1,9 +1,9 @@
-## Welcome to my Github page!
+## Welcome to 98khongmin's Github page!
 
 
 # Header 1
 ![7830fa8780f57c0b83e8b7d00f78284e](https://user-images.githubusercontent.com/47097113/52515327-42314900-2bd7-11e9-9049-38fd7dfaadf5.jpg)
-
+This is one of my favorite profile Images.
 
 ## Header 2
 Instruments | Languages
@@ -19,7 +19,9 @@ I know how to play these insruments and studying these Languages.
 
 ### Header 3
  -This is Header 3
-
+  -If you're ever interested in learning Korean, here's my number:
+  _**(208)-XXX-XXXX**_
+  -Also, everyone is welcome to **challenge** me in *Smash Bros*.
 
 ### Support or Contact
 
