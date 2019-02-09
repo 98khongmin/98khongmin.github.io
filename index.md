@@ -18,10 +18,11 @@ This is Header 2.
 I know how to play these insruments and studying these Languages.
 
 ### Header 3
--This is Header 3
-  -If you're ever interested in learning Korean, here's my number:
+This is Header 3.
+
+1. If you're ever interested in learning Korean, here's my number:
   _**(208)-XXX-XXXX**_
-  -Also, everyone is welcome to **challenge** me in *Smash Bros*.
+2. Also, everyone is welcome to **challenge** me in *Smash Bros*.
 
 ### Support or Contact
 
