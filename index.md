@@ -6,6 +6,7 @@
 This is one of my favorite profile Images.
 
 ## Header 2
+
 Instruments | Languages
 ------------ | -------------
 Guitar | Java
