@@ -1,43 +1,20 @@
 ## Welcome to my Github page!
 
 
-### Markdown
+# Header 1
+ -This is Header 1
 ![Image of Mercy-Corgi]
 (https://i.pinimg.com/originals/78/30/fa/7830fa8780f57c0b83e8b7d00f78284e.jpg)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
--This is Header 1
-
 ## Header 2
--This is Header 2
+ -This is Header 2
 First | Second
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ### Header 3
--This is Header 3
+ -This is Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/98khongmin/98khongmin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+stevenkim@u.boisestate.edu
