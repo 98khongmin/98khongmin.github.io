@@ -2,7 +2,7 @@
 
 
 # Header 1
-![7830fa8780f57c0b83e8b7d00f78284e.jpg]
+![7830fa8780f57c0b83e8b7d00f78284e]
 (98khongmin.github.io/7830fa8780f57c0b83e8b7d00f78284e.jpg)
 
 ## Header 2
