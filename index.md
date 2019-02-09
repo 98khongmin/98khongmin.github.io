@@ -7,10 +7,12 @@
 
 ## Header 2
  -This is Header 2
-First | Second
+Instruments | Languages
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Guitar | Java
+Piano | HTML
+Drum Set | CSS
+Bass Guitar | MySQL
 
 ### Header 3
  -This is Header 3
